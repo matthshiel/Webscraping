@@ -1,0 +1,82 @@
+[
+    {
+        "name": "New ListingASUS PRIME GeForce RTX 5070 Ti 16GB Graphics Card - Brand New, High Performance",
+        "price": 574,
+        "status": "Brand New",
+        "shipping": 1620,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingMSI GeForce GTX 1660 Ti VENTUS XS OC Graphics Card (G1660TVXS6C)",
+        "price": 10999,
+        "status": "Pre-Owned",
+        "shipping": 2020,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NVIDIA Tesla K80 24GB GDDR5 Accelerator GPU 699-22080-0200-511 w/Cable",
+        "price": 4999,
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": true,
+        "items_sold": 114
+    },
+    {
+        "name": "New ListingNVIDIA GeForce RTX 3070 Founders Edition 8GB GDDR6 Graphics Card",
+        "price": 29999,
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingMSI GeForce RTX Gaming X Trio 4070 Ti Graphics Card GPU MINT",
+        "price": 9600,
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP NVIDIA QUADRO GP100 GRAPHICS CARD | 923497-001 | 16GB HBM2",
+        "price": 20350,
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Nvidia Geforce RTX NVLink Bridge 4-Slot for 30 Series P3657",
+        "price": 32500,
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingNVIDIA GeForce RTX 3070 Founders Edition 8GB GDDR6X Graphics Card Works Perfect",
+        "price": 9600,
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAS-IS Read! Asus ROG Strix RTX 3060 12GB Video card With original box - See pics",
+        "price": 8900,
+        "status": "Parts Only",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingNVIDIA GeForce RTX 3070 Ti Founders Edition 8GB GDDR6X Graphics Card",
+        "price": 11750,
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    }
+]
