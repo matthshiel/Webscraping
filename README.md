@@ -4,7 +4,8 @@
 
 When given a search term, the code will search the given term and scrape the first 10 items list on the website
 Along with the name, the code will also collect: Price (in cents), status (Brand new, Pre-owned etc.), Shipping 
-costs (in cents), Free return status, and number of items previously sold. 
+costs (in cents), Free return status, and number of items previously sold. These information will be displayed 
+in a JSON file that will be created in the folder. 
 
 To use the code, simply load the ebay-dl.py file into vscode, click run then hit then pivot to the terminal.
 Then, hit the up arrow when in terminal
